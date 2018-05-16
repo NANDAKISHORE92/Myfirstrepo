@@ -2,6 +2,6 @@
 int main()
 {
 printf("hello world");
-printf("My First build trigger");
+printf("My First build trigger in Jenkins");
 return 0;
 }
